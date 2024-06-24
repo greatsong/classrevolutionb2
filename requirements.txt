@@ -1,4 +1,4 @@
 pandas
 matplotlib
 seaborn
-koreanize_matplotlib
+koreanize-matplotlib
