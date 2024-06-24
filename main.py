@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import koreaniz_matplotlib
+import koreanize_matplotlib
 
 # Load the data
 file_path = 'data inside, data insight!(응답).xlsx'
